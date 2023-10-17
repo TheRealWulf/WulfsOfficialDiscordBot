@@ -1,0 +1,20 @@
+# Node related
+node_modules/
+npm-debug.log
+
+# Config
+config.json
+
+# Operating System related
+.DS_Store   # Mac OS
+Thumbs.db   # Windows
+*.swp       # Vim temporary files
+*.swo       # Vim temporary files
+
+# IDE/Editor related
+.vscode/
+.idea/
+
+# Temp files
+*.tmp
+*.temp
